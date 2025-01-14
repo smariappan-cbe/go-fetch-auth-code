@@ -8,7 +8,7 @@ import (
 
 const (
 	// TODO replace below sandbox app creds with your own obtained from recipient hub
-	ClientId = "<paste your client id here>"
+	ClientId = "tsys"
 )
 
 func main() {
